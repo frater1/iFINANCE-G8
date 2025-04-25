@@ -1,0 +1,49 @@
+@model Group8_iFINANCE_APP.Models.Group
+@{
+    ViewData["Title"] = "Edit Group";
+}
+
+<nav aria-label="breadcrumb" class="mb-3">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a asp-controller="UserHome" asp-action="Index">Dashboard</a></li>
+    <li class="breadcrumb-item"><a asp-action="Index">Account Groups</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Edit</li>
+  </ol>
+</nav>
+
+<a asp-action="Index" class="btn btn-link mb-3">← Back to Groups</a>
+
+<h2>@ViewData["Title"]</h2>
+
+<div asp-validation-summary="All" class="alert alert-danger"></div>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="ID" />
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="AccountCategory_ID" class="form-label">Category</label>
+        <select asp-for="AccountCategory_ID" asp-items="ViewBag.Categories" class="form-control">
+        </select>
+        <span asp-validation-for="AccountCategory_ID" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="parent_ID" class="form-label">Parent Group</label>
+        <select asp-for="parent_ID" asp-items="ViewBag.AllParents" class="form-control">
+            <option value="">None</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

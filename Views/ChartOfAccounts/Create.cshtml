@@ -1,0 +1,60 @@
+@model Group8_iFINANCE_APP.Models.MasterAccountCreateViewModel
+@{
+    ViewData["Title"] = "Add Account";
+}
+
+<h2>@ViewData["Title"]</h2>
+<a asp-action="Index">← Back to Accounts</a>
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+
+    <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="OpeningAmount" class="form-label"></label>
+        <input asp-for="OpeningAmount" class="form-control" />
+        <span asp-validation-for="OpeningAmount" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CategoryID" class="form-label"></label>
+        <select asp-for="CategoryID" class="form-select" asp-items="Model.Categories">
+            <option value="">-- select category --</option>
+        </select>
+        <span asp-validation-for="CategoryID" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3 input-group">
+        <label asp-for="GroupID" class="input-group-text">Account Group</label>
+        <select asp-for="GroupID" class="form-select" asp-items="Model.ExistingGroups">
+            <option value="">-- pick one --</option>
+        </select>
+        <button type="button"
+                class="btn btn-outline-secondary"
+                onclick="document.getElementById('NewGroupName').focus()">
+            + New
+        </button>
+    </div>
+    <span asp-validation-for="GroupID" class="text-danger"></span>
+
+    <div class="mb-3">
+        <label asp-for="NewGroupName" class="form-label"></label>
+        <input asp-for="NewGroupName" id="NewGroupName" class="form-control"
+               placeholder="(optional) type to create new group" />
+        <span asp-validation-for="NewGroupName" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

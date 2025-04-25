@@ -1,0 +1,119 @@
+/* wwwroot/css/glass.css */
+
+html, body {
+    /* only needed if you want full‐page glass */  
+    /* leave this in your _GlassLayout or remove if not full‐page */
+
+    position: relative;
+    height: 100%;
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+
+    
+    /* diagonal two-stop gradient back in */
+    background: linear-gradient(
+      45deg,
+      #43cea2 0%,
+      #0072ff 100%);
+  }
+    /* Foreground title & card */
+    .page-title,
+    .glass-card {
+      position: relative;
+      z-index: 2;
+    }
+  
+    .page-title {
+      color: #fff;
+      font-size: 2.5rem;
+      margin-bottom: 2rem;
+      letter-spacing: 1px;
+      text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+    }
+  
+
+    .glass-container {
+        position: relative;
+        width: 100%;
+        height: 100vh;              /* cover full viewport height */
+        display: flex;
+        flex-direction: column;
+        align-items: center;        /* horizontal center */
+        justify-content: center;    /* vertical center */
+        overflow: hidden;
+      }
+  /* Scattered glass shapes */
+  .shape {
+    position: absolute;
+    background: rgba(255,255,255,0.11);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0,0,0,0.1);
+    backdrop-filter: blur(4.3px);
+    -webkit-backdrop-filter: blur(4.3px);
+    border: 1px solid rgba(255,255,255,0.52);
+    z-index: 1;
+  }
+  .shape1  { width:120px; height:120px; border-radius:50%;  top:15%; left:10%; transform:rotate(15deg);  }
+  /* … paste your .shape2–.shape20 here … */
+  
+  /* Glass container you can wrap any content in */
+  .glass-card {
+    position: relative;
+    z-index: 2;
+    background: rgba(255,255,255,0.11);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0,0,0,0.1);
+    backdrop-filter: blur(4.3px);
+    -webkit-backdrop-filter: blur(4.3px);
+    border: 1px solid rgba(255,255,255,0.52);
+    padding: 2rem;
+  }
+  
+  /* Neumorphic form controls */
+  .neumorphic-input {
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.75rem 1rem;
+    border: none;
+    border-radius: 12px;
+    background: #e0e0e0;
+    box-shadow:
+      inset 2px 2px 4px rgba(0,0,0,0.1),
+      inset -2px -2px 4px rgba(255,255,255,0.7);
+  }
+  .neumorphic-input:focus {
+    outline: none;
+    box-shadow:
+      inset 1px 1px 2px rgba(0,0,0,0.2),
+      inset -1px -1px 2px rgba(255,255,255,0.8);
+  }
+  
+  .neumorphic-btn {
+    width: 100%;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 12px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    background: linear-gradient(135deg, #34e89e 0%, #106485 100%);
+    box-shadow:
+      4px 4px 8px rgba(0,0,0,0.15),
+      -4px -4px 8px rgba(255,255,255,0.5);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .neumorphic-btn:hover {
+    transform: translateY(-2px);
+    box-shadow:
+      6px 6px 12px rgba(0,0,0,0.2),
+      -6px -6px 12px rgba(255,255,255,0.6);
+  }
+
+  .validation-summary {
+    background: rgba(255,0,0,0.1);
+    padding: 0.5rem;
+    border-radius: 8px;
+    color: #e00;
+    margin-bottom: 1rem;
+  }

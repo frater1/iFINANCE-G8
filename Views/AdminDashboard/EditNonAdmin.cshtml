@@ -1,0 +1,50 @@
+@model Group8_iFINANCE_APP.Models.EditNonAdminUserViewModel
+@{
+    ViewData["Title"] = "Edit Non-Admin User";
+}
+
+<h2>@ViewData["Title"]</h2>
+<a asp-action="ListNonAdmins">← Back to list</a>
+<hr />
+
+<form asp-action="EditNonAdmin" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="ID" />
+
+    <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Address" class="form-label"></label>
+        <input asp-for="Address" class="form-control" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="AdministratorID" class="form-label"></label>
+        <select asp-for="AdministratorID"
+                class="form-select"
+                asp-items="(SelectList)ViewBag.Administrators">
+            <option value="">-- select admin --</option>
+        </select>
+        <span asp-validation-for="AdministratorID" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+    <a asp-action="ListNonAdmins" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+  <partial name="_ValidationScriptsPartial" />
+}

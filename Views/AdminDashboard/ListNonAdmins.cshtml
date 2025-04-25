@@ -1,0 +1,40 @@
+@model IEnumerable<Group8_iFINANCE_APP.Models.NonAdminUser>
+@{
+    ViewData["Title"] = "Non-Admin Users";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="AddUser" class="btn btn-primary">+ Add User</a>
+    <a asp-action="Index" class="btn btn-secondary ml-2">Dashboard</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Email</th>
+            <th>Administrator</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var u in Model)
+    {
+        <tr>
+            <td>@u.ID</td>
+            <td>@u.Name</td>
+            <td>@u.Address</td>
+            <td>@u.Email</td>
+            <td>@u.Administrator?.Name</td>
+            <td>
+                <a asp-action="EditNonAdmin" asp-route-id="@u.ID" class="btn btn-sm btn-warning">Edit</a>
+                <a asp-action="DeleteNonAdmin" asp-route-id="@u.ID" class="btn btn-sm btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

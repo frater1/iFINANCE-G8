@@ -1,0 +1,43 @@
+@model IEnumerable<Group8_iFINANCE_APP.Models.Group>
+@{
+    ViewData["Title"] = "Account Groups";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">＋ New Group</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Parent</th>
+            <th class="text-end">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @* start from roots, recursively render each node *@
+        @foreach (var root in Model)
+        {
+            @Html.Partial("_GroupNodeRecursive", root)
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+<script>
+// once the DOM is ready, wire up any .btn-toggle buttons
+document.addEventListener("DOMContentLoaded", function(){
+  document.querySelectorAll(".btn-toggle").forEach(btn => {
+    btn.addEventListener("click", function(){
+      var sel = btn.getAttribute("data-target");
+      document.querySelectorAll(sel).forEach(row => row.classList.toggle("d-none"));
+      btn.textContent = btn.textContent === "+" ? "−" : "+";
+    });
+  });
+});
+</script>
+}

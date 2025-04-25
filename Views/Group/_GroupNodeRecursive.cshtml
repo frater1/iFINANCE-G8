@@ -1,0 +1,50 @@
+@model Group8_iFINANCE_APP.Models.Group
+
+@{
+    // any row whose parent_ID != null starts hidden
+    var rowClass = Model.parent_ID.HasValue
+        ? $"child-of-{Model.parent_ID.Value} d-none"
+        : "";
+}
+<tr class="@rowClass">
+  <td style="padding-left:@(Model.parent_ID.HasValue ? "2rem" : "0")">
+    @* if this node has children, show a toggle *@
+    @if (Model.Children?.Any() == true)
+    {
+        <button type="button"
+                class="btn btn-sm btn-toggle me-2"
+                data-target=".child-of-@Model.ID">+</button>
+    }
+    @Model.Name
+  </td>
+  <td>@Model.AccountCategory.Name</td>
+  <td>@(Model.ParentGroup?.Name ?? "—")</td>
+  <td class="text-end">
+    @* New Subgroup *@
+    <a asp-action="Create"
+       asp-route-parentId="@Model.ID"
+       class="btn btn-sm btn-outline-primary me-1">
+      ＋ Subgroup
+    </a>
+    @* Edit/Delete *@
+    <a asp-action="Edit"
+       asp-route-id="@Model.ID"
+       class="btn btn-sm btn-outline-secondary me-1">
+      Edit
+    </a>
+    <a asp-action="Delete"
+       asp-route-id="@Model.ID"
+       class="btn btn-sm btn-outline-danger">
+      Delete
+    </a>
+  </td>
+</tr>
+
+@* recurse into children *@
+@if (Model.Children != null)
+{
+    foreach (var child in Model.Children)
+    {
+        @Html.Partial("_GroupNodeRecursive", child)
+    }
+}

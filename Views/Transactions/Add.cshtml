@@ -1,0 +1,82 @@
+@model Group8_iFINANCE_APP.Models.TransactionViewModel
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+@{
+    ViewData["Title"] = "Add Transaction";
+}
+
+<h2>@ViewData["Title"]</h2>
+<a asp-action="Index">← Back to Transactions</a>
+
+<form asp-action="Add" method="post">
+  @Html.AntiForgeryToken()
+  <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+  <div class="row mb-3">
+    <div class="col">
+      <label asp-for="Date"></label>
+      <input asp-for="Date" class="form-control" />
+      <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+    <div class="col">
+      <label asp-for="Description"></label>
+      <input asp-for="Description" class="form-control" />
+      <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+  </div>
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Account</th>
+        <th>Debit</th>
+        <th>Credit</th>
+        <th>Comments</th>
+      </tr>
+    </thead>
+    <tbody>
+      @for (int i = 0; i < Model.Lines.Count; i++)
+      {
+        <tr>
+          <td>
+            @Html.DropDownListFor(
+              m => m.Lines[i].MasterAccountID,
+              (SelectList)ViewBag.Accounts,
+              "-- choose account --",
+              new { @class = "form-control" }
+            )
+            @Html.ValidationMessageFor(m => m.Lines[i].MasterAccountID, "", new { @class = "text-danger" })
+          </td>
+          <td>
+            @Html.TextBoxFor(
+              m => m.Lines[i].DebitedAmount,
+              new { @class = "form-control", type = "number", step = "0.01" }
+            )
+            @Html.ValidationMessageFor(m => m.Lines[i].DebitedAmount, "", new { @class = "text-danger" })
+          </td>
+          <td>
+            @Html.TextBoxFor(
+              m => m.Lines[i].CreditedAmount,
+              new { @class = "form-control", type = "number", step = "0.01" }
+            )
+            @Html.ValidationMessageFor(m => m.Lines[i].CreditedAmount, "", new { @class = "text-danger" })
+          </td>
+          <td>
+            @Html.TextBoxFor(
+              m => m.Lines[i].Comments,
+              new { @class = "form-control" }
+            )
+            @Html.ValidationMessageFor(m => m.Lines[i].Comments, "", new { @class = "text-danger" })
+          </td>
+        </tr>
+      }
+    </tbody>
+  </table>
+
+  <button type="submit" class="btn btn-success">Save Transaction</button>
+  <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+</form>
+
+@section Scripts {
+  <partial name="_ValidationScriptsPartial" />
+}

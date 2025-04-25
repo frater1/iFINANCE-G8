@@ -1,0 +1,394 @@
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/appsettings.Development.json
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/appsettings.json
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP.staticwebassets.runtime.json
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP.staticwebassets.endpoints.json
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP.deps.json
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP.runtimeconfig.json
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP.pdb
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Humanizer.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/MySqlConnector.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/System.CodeDom.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.csproj.AssemblyReference.cache
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.AssemblyInfoInputs.cache
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.AssemblyInfo.cs
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.csproj.CoreCompileInputs.cache
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.MvcApplicationPartsAssemblyInfo.cache
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.RazorAssemblyInfo.cache
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.RazorAssemblyInfo.cs
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/scopedcss/bundle/Group8_iFINANCE_APP.styles.css
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/scopedcss/projectbundle/Group8_iFINANCE_APP.bundle.scp.css
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/20aiedypnb-b9sayid5wm.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/pgkjdi75yh-61n19gt1b8.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/hj44mdmp52-xtxxf3hu2r.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/26fkql6dav-bqjiyaj88i.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/p0cn8bntef-c2jlpeoesf.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ldhwarzj44-erw9l3u2r3.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/vqkh4ep8sq-aexeepp0ev.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/gllr5jfvyf-d7shbmvgxk.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/h7xw40ss5m-ausgxo2sd3.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/tshl7vavmb-k8d9w2qqmf.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/etgk0z2jlu-cosvhxvwiu.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/svcobqsqns-ub07r2b239.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/si2w9tjfdd-fvhpjtyr6v.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/od5x69j6mg-b7pk76d08c.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/k63u1og46u-fsbi9cje9m.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/apgjsav11o-rzd6atqjts.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/1o0f9nqdcp-ee0r1s7dh0.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/5a3h1pdch9-dxx9fxp4il.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/m6utj8so86-jd9uben2k1.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/0eveq1w8xr-khv3u5hwcm.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ndq3ng1mul-r4e9w2rdcm.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/xjbrgs47fm-lcd1t2u6c8.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/1u7w3qsfyl-c2oey78nd0.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/qaievxtk6w-tdbxkamptv.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/jxrandujty-j5mq2jizvt.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/1mqyy8oxsx-06098lyss8.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/kcetnp07pa-nvvlpmu67g.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/vz6nel112p-s35ty4nyc5.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/5t4wllob9h-pj5nd1wqec.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/hxdnzj0vqf-46ein0sx1k.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/irdne7je1e-v0zj4ognzu.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ui620hhcq4-37tfw0ft22.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/yjznd3jn7b-hrwsygsryq.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/al6b5bunho-pk9g2wxc8p.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/papbfzxuy7-ft3s53vfgj.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/rzbx38vexg-6cfz1n2cew.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/5z5ucjlelg-6pdc2jztkx.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/xz4xkoxr84-493y06b0oq.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/a0gdsmqcar-iovd86k7lj.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/u3tlrvimfz-vr1egmr9el.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/0rk7ouhv1e-kbrnm935zg.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/zkak9dwytq-jj8uyg4cgr.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ox4zg3fdfn-y7v9cxd14o.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/qac21u5o0c-notf2xhcfb.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/gbn8tv74m0-h1s4sie4z3.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/v0jmssh7lw-63fj8s7r0e.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/0f4gm94by5-0j3bgjxly4.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/dxdauhi2bi-47otxtyo56.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/p2cchb0xqr-4v8eqarkd7.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/vc08gzrf0e-356vix0kms.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/1rsjk9r1w7-83jwlth58m.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/bzn9bhttvu-mrlpezrjn3.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/3snl1hqy3p-lzl9nlhx6b.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/a9ph4qltlx-ag7o75518u.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/h6nia93ijr-x0q3zqp4vz.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/h6yi2nm08h-0i3buxo5is.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ij0zac8oyb-o1o13a6vjx.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/szlxlmuapi-ttgo8qnofa.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ohko1x1gz9-2z0ns9nrw6.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/wg4qzl72ni-muycvpuwrr.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/wylfxl8ab0-87fc7y1x7t.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/wyqwmymjfi-mlv21k5csn.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ilugo6x8wl-w0pev40t47.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/sjnx397602-w0pev40t47.gz
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets.build.json
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets.development.json
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets/msbuild.Group8_iFINANCE_APP.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets/msbuild.Group8_iFINANCE_APP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets/msbuild.build.Group8_iFINANCE_APP.props
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Group8_iFINANCE_APP.props
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Group8_iFINANCE_APP.props
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_i.997547AC.Up2Date
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/refint/Group8_iFINANCE_APP.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.pdb
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.genruntimeconfig.cache
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/ref/Group8_iFINANCE_APP.dll
+/Users/jackbuyol/Desktop/CS4520/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/qr677os17o-isy0nendb4.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/appsettings.Development.json
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/appsettings.json
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP.staticwebassets.runtime.json
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP.staticwebassets.endpoints.json
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP.deps.json
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP.runtimeconfig.json
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Group8_iFINANCE_APP.pdb
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Humanizer.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/MySqlConnector.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/System.CodeDom.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.csproj.AssemblyReference.cache
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.AssemblyInfoInputs.cache
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.AssemblyInfo.cs
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.csproj.CoreCompileInputs.cache
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.MvcApplicationPartsAssemblyInfo.cache
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.RazorAssemblyInfo.cache
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.RazorAssemblyInfo.cs
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/scopedcss/bundle/Group8_iFINANCE_APP.styles.css
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/scopedcss/projectbundle/Group8_iFINANCE_APP.bundle.scp.css
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/qr677os17o-isy0nendb4.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/20aiedypnb-b9sayid5wm.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/pgkjdi75yh-61n19gt1b8.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/hj44mdmp52-xtxxf3hu2r.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/26fkql6dav-bqjiyaj88i.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/p0cn8bntef-c2jlpeoesf.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ldhwarzj44-erw9l3u2r3.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/vqkh4ep8sq-aexeepp0ev.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/gllr5jfvyf-d7shbmvgxk.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/h7xw40ss5m-ausgxo2sd3.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/tshl7vavmb-k8d9w2qqmf.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/etgk0z2jlu-cosvhxvwiu.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/svcobqsqns-ub07r2b239.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/si2w9tjfdd-fvhpjtyr6v.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/od5x69j6mg-b7pk76d08c.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/k63u1og46u-fsbi9cje9m.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/apgjsav11o-rzd6atqjts.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/1o0f9nqdcp-ee0r1s7dh0.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/5a3h1pdch9-dxx9fxp4il.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/m6utj8so86-jd9uben2k1.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/0eveq1w8xr-khv3u5hwcm.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ndq3ng1mul-r4e9w2rdcm.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/xjbrgs47fm-lcd1t2u6c8.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/1u7w3qsfyl-c2oey78nd0.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/qaievxtk6w-tdbxkamptv.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/jxrandujty-j5mq2jizvt.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/1mqyy8oxsx-06098lyss8.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/kcetnp07pa-nvvlpmu67g.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/vz6nel112p-s35ty4nyc5.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/5t4wllob9h-pj5nd1wqec.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/hxdnzj0vqf-46ein0sx1k.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/irdne7je1e-v0zj4ognzu.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ui620hhcq4-37tfw0ft22.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/yjznd3jn7b-hrwsygsryq.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/al6b5bunho-pk9g2wxc8p.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/papbfzxuy7-ft3s53vfgj.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/rzbx38vexg-6cfz1n2cew.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/5z5ucjlelg-6pdc2jztkx.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/xz4xkoxr84-493y06b0oq.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/a0gdsmqcar-iovd86k7lj.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/u3tlrvimfz-vr1egmr9el.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/0rk7ouhv1e-kbrnm935zg.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/zkak9dwytq-jj8uyg4cgr.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ox4zg3fdfn-y7v9cxd14o.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/qac21u5o0c-notf2xhcfb.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/gbn8tv74m0-h1s4sie4z3.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/v0jmssh7lw-63fj8s7r0e.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/0f4gm94by5-0j3bgjxly4.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/dxdauhi2bi-47otxtyo56.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/p2cchb0xqr-4v8eqarkd7.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/vc08gzrf0e-356vix0kms.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/1rsjk9r1w7-83jwlth58m.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/bzn9bhttvu-mrlpezrjn3.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/3snl1hqy3p-lzl9nlhx6b.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/a9ph4qltlx-ag7o75518u.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/h6nia93ijr-x0q3zqp4vz.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/h6yi2nm08h-0i3buxo5is.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ij0zac8oyb-o1o13a6vjx.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/szlxlmuapi-ttgo8qnofa.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ohko1x1gz9-2z0ns9nrw6.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/wg4qzl72ni-muycvpuwrr.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/wylfxl8ab0-87fc7y1x7t.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/wyqwmymjfi-mlv21k5csn.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/ilugo6x8wl-w0pev40t47.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/compressed/sjnx397602-w0pev40t47.gz
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets.build.json
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets.development.json
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets/msbuild.Group8_iFINANCE_APP.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets/msbuild.Group8_iFINANCE_APP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets/msbuild.build.Group8_iFINANCE_APP.props
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Group8_iFINANCE_APP.props
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Group8_iFINANCE_APP.props
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_i.997547AC.Up2Date
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/refint/Group8_iFINANCE_APP.dll
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.pdb
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/Group8_iFINANCE_APP.genruntimeconfig.cache
+/Users/jackbuyol/Desktop/CS4520 copy/Group8_iFINANCE_APP/obj/Debug/net9.0/ref/Group8_iFINANCE_APP.dll

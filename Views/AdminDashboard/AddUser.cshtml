@@ -1,0 +1,90 @@
+@model Group8_iFINANCE_APP.Models.CreateUserViewModel
+@{
+    ViewData["Title"] = "Add New User";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="AddUser" method="post">
+  @Html.AntiForgeryToken()
+  <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+  <div class="form-group">
+    <label asp-for="Role"></label>
+    <select asp-for="Role" class="form-control" id="roleSelect">
+      <option value="Admin">Administrator</option>
+      <option value="NonAdmin">Non-Admin User</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+  </div>
+
+  <div class="form-group">
+    <label asp-for="Username"></label>
+    <input asp-for="Username" class="form-control" />
+    <span asp-validation-for="Username" class="text-danger"></span>
+  </div>
+
+  <div class="form-group">
+    <label asp-for="Password"></label>
+    <input asp-for="Password" type="password" class="form-control" />
+    <span asp-validation-for="Password" class="text-danger"></span>
+  </div>
+
+  <div id="adminFields" style="display:none;">
+    <div class="form-group">
+      <label asp-for="PasswordExpiryTime"></label>
+      <input asp-for="PasswordExpiryTime" class="form-control" />
+    </div>
+    <div class="form-group">
+      <label asp-for="UserAccountExpiryDate"></label>
+      <input asp-for="UserAccountExpiryDate" type="date" class="form-control" />
+    </div>
+    <div class="form-group">
+      <label asp-for="DateHired"></label>
+      <input asp-for="DateHired" type="date" class="form-control" />
+    </div>
+  </div>
+
+  <div id="nonAdminFields" style="display:none;">
+    <div class="form-group">
+      <label asp-for="Address"></label>
+      <input asp-for="Address" class="form-control" />
+    </div>
+    <div class="form-group">
+      <label asp-for="Email"></label>
+      <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="form-group">
+      <label asp-for="InitialCategoryID"></label>
+      <select asp-for="InitialCategoryID" class="form-control"
+              asp-items="(SelectList)ViewBag.InitialCategories">
+        <option value="">— choose a category —</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label asp-for="OpeningAmount"></label>
+      <input asp-for="OpeningAmount" class="form-control" />
+    </div>
+  </div>
+
+  <button type="submit" class="btn btn-success mt-3">Save</button>
+  <a asp-action="Index" class="btn btn-secondary mt-3">Cancel</a>
+</form>
+
+@section Scripts {
+  <partial name="_ValidationScriptsPartial" />
+  <script>
+    function toggleFields() {
+      var role = document.getElementById("roleSelect").value;
+      document.getElementById("adminFields").style.display    = role === "Admin"    ? "" : "none";
+      document.getElementById("nonAdminFields").style.display = role === "NonAdmin" ? "" : "none";
+    }
+    document.getElementById("roleSelect").addEventListener("change", toggleFields);
+    toggleFields();
+  </script>
+}

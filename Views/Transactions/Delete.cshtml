@@ -1,0 +1,53 @@
+@model Group8_iFINANCE_APP.Models.Transaction
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Delete Transaction";
+}
+
+<h2>@ViewData["Title"]</h2>
+<p>
+  <a asp-action="Index">← Back to Transactions</a>
+</p>
+
+<div class="alert alert-danger">
+  Are you sure you want to permanently delete the transaction on
+  <strong>@Model.Date.ToShortDateString()</strong>?
+</div>
+
+<dl class="row mb-4">
+  <dt class="col-sm-2">Date</dt>
+  <dd class="col-sm-10">@Model.Date.ToShortDateString()</dd>
+
+  <dt class="col-sm-2">Description</dt>
+  <dd class="col-sm-10">@Model.Description</dd>
+</dl>
+
+<h4>Entries</h4>
+<table class="table table-sm table-bordered mb-4">
+  <thead>
+    <tr>
+      <th>Account</th><th class="text-end">Debit</th><th class="text-end">Credit</th><th>Comments</th>
+    </tr>
+  </thead>
+  <tbody>
+  @foreach (var line in Model.TransactionLines)
+  {
+    <tr>
+      <td>@line.MasterAccount?.Name</td>
+      <td class="text-end">@line.DebitedAmount.ToString("C")</td>
+      <td class="text-end">@line.CreditedAmount.ToString("C")</td>
+      <td>@line.Comments</td>
+    </tr>
+  }
+  </tbody>
+</table>
+
+<form asp-action="Delete" method="post">
+  @Html.AntiForgeryToken()
+  <input type="hidden" asp-for="ID" />
+  <button type="submit" class="btn btn-danger">
+    <i class="bi bi-trash-fill me-1"></i> Delete
+  </button>
+  <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+</form>

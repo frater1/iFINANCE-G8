@@ -1,0 +1,90 @@
+@{
+    ViewData["Title"] = "Dashboard";
+    // we pull the logged-in user’s name & net worth from ViewBag
+    var username = Context.Session.GetString("Username") ?? "User";
+    var netWorth = (double)(ViewBag.NetWorth ?? 0.0);
+}
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+/>
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+  integrity="sha512-…"
+  crossorigin="anonymous"
+  referrerpolicy="no-referrer"
+/>
+
+<div class="container mt-6">
+    <div class="text-center mb-5">
+        <h2>Welcome, @username 👋</h2>
+        <p class="text-muted">Manage your personal finances below.</p>
+    </div>
+    <div class="text-center mb-5">
+        <h1 class="display-1">@netWorth.ToString("C2")</h1>
+        <p class="text-secondary">Net Worth</p>
+    </div>
+    <div class="row text-center g-4">
+        <!-- Account Groups Card -->
+        <div class="col-md-4">
+            <div class="glass-card card-body d-flex flex-column justify-content-between shadow-sm">
+                <i class="fas fa-object-ungroup fa-2x"></i>
+                <a asp-controller="Group" asp-action="Index" class="btn btn-lg mt-3">
+                    ACCOUNT GROUPS
+                </a>
+            </div>
+        </div>
+
+        <!-- Chart of Accounts Card -->
+        <div class="col-md-4">
+            <div class="glass-card card-body d-flex flex-column justify-content-between shadow-sm">
+                <i class="fas fa-list-alt fa-2x"></i>
+                <a asp-controller="ChartOfAccounts" asp-action="Index" class="btn btn-lg mt-3">
+                    CHART OF ACCOUNTS
+                </a>
+            </div>
+        </div>
+
+        <!-- Transactions Card -->
+        <div class="col-md-4">
+            <div class="glass-card card-body d-flex flex-column justify-content-between shadow-sm">
+                <i class="fas fa-exchange-alt fa-2x"></i>
+                <a asp-controller="Transactions" asp-action="Index" class="btn btn-lg mt-3">
+                    TRANSACTIONS
+                </a>
+            </div>
+        </div>
+
+        <!-- Reports Card -->
+        <div class="col-md-4">
+            <div class="glass-card card-body d-flex flex-column justify-content-between shadow-sm">
+                <i class="fas fa-chart-line fa-2x"></i>
+                <a asp-controller="Reports" asp-action="Index" class="btn btn-lg mt-3">
+                    REPORTS
+                </a>
+            </div>
+        </div>
+
+        <!-- Logout Card -->
+        <div class="col-md-4">
+            <div class="glass-card card-body d-flex flex-column justify-content-between shadow-sm border-danger">
+                <i class="fas fa-sign-out-alt fa-2x"></i>
+                <a asp-controller="Account" asp-action="Logout" class="btn btn-lg mt-3">
+                    LOGOUT
+                </a>
+            </div>
+        </div>
+
+        <!-- Change Password Card -->
+        <div class="col-md-4">
+            <div class="glass-card card-body d-flex flex-column justify-content-between shadow-sm border-primary">
+                <i class="fas fa-user-gear fa-2x"></i>
+                <a asp-controller="Account" asp-action="ChangePassword" class="btn btn-lg mt-3">
+                    PASSWORD
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

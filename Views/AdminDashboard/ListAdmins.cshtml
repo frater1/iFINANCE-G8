@@ -1,0 +1,38 @@
+@model IEnumerable<Group8_iFINANCE_APP.Models.Administrator>
+@{
+    ViewData["Title"] = "Administrators";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="AddUser" class="btn btn-primary">+ Add Admin</a>
+    <a asp-action="Index" class="btn btn-secondary ml-2">Dashboard</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Date Hired</th>
+            <th>Date Finished</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var a in Model)
+    {
+        <tr>
+            <td>@a.ID</td>
+            <td>@a.Name</td>
+            <td>@a.DateHired:yyyy-MM-dd</td>
+            <td>@(a.DateFinished?.ToString("yyyy-MM-dd") ?? "—")</td>
+            <td>
+                <a asp-action="EditAdmin" asp-route-id="@a.ID" class="btn btn-sm btn-warning">Edit</a>
+                <a asp-action="DeleteAdmin" asp-route-id="@a.ID" class="btn btn-sm btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,20 @@
+@model Group8_iFINANCE_APP.Models.Administrator
+@{
+    ViewData["Title"] = "Delete Administrator";
+}
+
+<h2>@ViewData["Title"]</h2>
+<a asp-action="ListAdmins" class="btn btn-link">← Back to Admin List</a>
+<hr />
+
+<div class="alert alert-warning">
+  <p>Are you sure you want to permanently delete administrator <strong>@Model.Name</strong>?</p>
+</div>
+
+<form asp-action="DeleteAdmin" method="post">
+  @Html.AntiForgeryToken()
+  <input type="hidden" asp-for="ID" />
+
+  <button type="submit" class="btn btn-danger">Yes, Delete</button>
+  <a asp-action="ListAdmins" class="btn btn-secondary">Cancel</a>
+</form>

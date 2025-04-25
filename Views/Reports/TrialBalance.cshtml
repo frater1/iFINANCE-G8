@@ -1,0 +1,48 @@
+@model Group8_iFINANCE_APP.Models.ReportViewModel
+@using System.Globalization
+
+@{
+    ViewData["Title"] = "Trial Balance";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form class="row g-3 mb-4">
+  <div class="col-auto">
+    <label>From</label>
+    <input asp-for="From" class="form-control" type="date" />
+  </div>
+  <div class="col-auto">
+    <label>To</label>
+    <input asp-for="To" class="form-control" type="date" />
+  </div>
+  <div class="col-auto align-self-end">
+    <button type="submit" class="btn btn-primary">Run</button>
+  </div>
+</form>
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Account</th><th class="text-end">Debit</th><th class="text-end">Credit</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var line in Model.Lines) {
+      <tr>
+        <td>@line.AccountName</td>
+        <td class="text-end">@line.Debit.ToString("C2", CultureInfo.CurrentCulture)</td>
+        <td class="text-end">@line.Credit.ToString("C2", CultureInfo.CurrentCulture)</td>
+      </tr>
+    }
+  </tbody>
+  <tfoot>
+    <tr>
+      <th>Total</th>
+      <th class="text-end">@Model.TotalDebit.ToString("C2")</th>
+      <th class="text-end">@Model.TotalCredit.ToString("C2")</th>
+    </tr>
+  </tfoot>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">← Back to Reports</a>

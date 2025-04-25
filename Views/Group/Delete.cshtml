@@ -1,0 +1,38 @@
+@model Group8_iFINANCE_APP.Models.Group
+@{
+    ViewData["Title"] = "Delete Group";
+}
+
+<nav aria-label="breadcrumb" class="mb-3">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a asp-controller="UserHome" asp-action="Index">Dashboard</a></li>
+    <li class="breadcrumb-item"><a asp-action="Index">Account Groups</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Delete</li>
+  </ol>
+</nav>
+
+<a asp-action="Index" class="btn btn-link mb-3">← Back to Groups</a>
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="alert alert-danger">
+    Are you sure you want to delete “@Model.Name”?
+</div>
+
+<dl class="row">
+    <dt class="col-sm-3">Name</dt>
+    <dd class="col-sm-9">@Model.Name</dd>
+
+    <dt class="col-sm-3">Category</dt>
+    <dd class="col-sm-9">@Model.AccountCategory?.Name</dd>
+
+    <dt class="col-sm-3">Parent</dt>
+    <dd class="col-sm-9">@Model.ParentGroup?.Name ?? "None"</dd>
+</dl>
+
+<form asp-action="Delete" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="ID" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+</form>

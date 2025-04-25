@@ -1,0 +1,42 @@
+@model Group8_iFINANCE_APP.Models.LoginViewModel
+
+@{
+    // use your main layout so that glass.css is loaded
+    Layout = "_Layout";
+    ViewData["Title"] = "Login";
+}
+
+@* — wrap everything in a full-screen flex container — *@
+<div class="glass-container">
+  @* 20 floating shapes in the background *@
+  @await Html.PartialAsync("_GlassShapes")
+
+  @* Page title above the card *@
+  <div class="page-title">Welcome to iFINANCE</div>
+
+  @* The frosted glass login card *@
+  <div class="glass-card">
+    <h2 class="page-title">Login</h2>
+    <form asp-action="Login" method="post">
+      @Html.AntiForgeryToken()
+      <div asp-validation-summary="ModelOnly" class="validation-summary"></div>
+
+      <input asp-for="Username"
+             placeholder="Username"
+             class="neumorphic-input" />
+      <span asp-validation-for="Username" class="text-danger"></span>
+
+      <input asp-for="Password"
+             type="password"
+             placeholder="Password"
+             class="neumorphic-input" />
+      <span asp-validation-for="Password" class="text-danger"></span>
+
+      <button type="submit" class="neumorphic-btn">Log in</button>
+    </form>
+  </div>
+</div>
+
+@section Scripts {
+  <partial name="_ValidationScriptsPartial" />
+}

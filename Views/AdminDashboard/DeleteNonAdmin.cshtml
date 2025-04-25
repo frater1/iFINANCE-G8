@@ -1,0 +1,20 @@
+@model Group8_iFINANCE_APP.Models.NonAdminUser
+@{
+    ViewData["Title"] = "Delete User";
+}
+
+<h2>@ViewData["Title"]</h2>
+<a asp-action="ListNonAdmins" class="btn btn-link">← Back to User List</a>
+<hr />
+
+<div class="alert alert-warning">
+  <p>Are you sure you want to permanently delete user <strong>@Model.Name</strong>?</p>
+</div>
+
+<form asp-action="DeleteNonAdmin" method="post">
+  @Html.AntiForgeryToken()
+  <input type="hidden" asp-for="ID" />
+
+  <button type="submit" class="btn btn-danger">Yes, Delete</button>
+  <a asp-action="ListNonAdmins" class="btn btn-secondary">Cancel</a>
+</form>
